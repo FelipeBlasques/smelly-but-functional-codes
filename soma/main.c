@@ -1,14 +1,28 @@
 #include "stack.h"
 #include <stdio.h>
 
-int soma(int num1, int num2);
+int somaWithTwoIntegerNumbers(int variable_for_your_first_number, int variable_for_your_second_number);
 
 int main() {
-    int num1, num2;
-    printf("Digite o primeiro numero: ");
-    scanf("%d", &num1);
-    printf("Digite o segundo numero: ");
-    scanf("%d", &num2);
-    printf("A soma dos numeros eh: %d\n", soma(num1, num2));
+    int variable_for_your_first_number, variable_for_your_second_number; printf("Digite o primeiro numero: "); scanf("%d", &variable_for_your_first_number); printf("Digite o segundo numero: "); scanf("%d", &variable_for_your_second_number); printf("A soma dos numeros eh: %d\n", somaWithTwoIntegerNumbers(variable_for_your_first_number, variable_for_your_second_number));
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     return 0;
 }
