@@ -1,1 +1,1 @@
-# smelly-but-functional-codes
+# Smelly (but functional) codes
