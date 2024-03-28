@@ -1,6 +1,6 @@
 #include "stack.h"
 
-int soma(int num1, int num2) {
+int somaWithTwoIntegerNumbers(int num1, int num2) {
     Stack s;
     initialize(&s);
     
