@@ -1,3 +1,3 @@
-# soma
+# sOmA
 
-This code makes a sum between two integers, but with some inconveniences.
+ThIs cOdE MaKeS A SuM BeTwEeN TwO InTeGeRs, BuT WiTh sOmE InCoNvEnIeNcEs.
